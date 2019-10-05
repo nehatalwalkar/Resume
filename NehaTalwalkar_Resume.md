@@ -96,7 +96,7 @@ Goal is to develop a workflow management system for various application approval
 
 ### Technologies and Tools
 
-Agile, SDLS, UML, Business Process Management, Java, Light weight UI toolkit, J2EE, PL/SQL, HTML, CSS, Javascript, Unix shell script, DB2, Oracle 9i, Websphere, RAD, Eclipse, Jira, Github, SVN, VSS, Sun IDM 7, xPress, SOAP, REST, IBM BPM, Knowledge of Spring framework
+Agile, SDLC, UML, Business Process Management, Java, Light weight UI toolkit, J2EE, PL/SQL, HTML, CSS, Javascript, Unix shell script, DB2, Oracle 9i, Websphere, RAD, Eclipse, Jira, Github, SVN, VSS, Sun IDM 7, xPress, SOAP, REST, IBM BPM, Knowledge of Spring framework
 
 
 ---
