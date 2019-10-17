@@ -16,6 +16,18 @@
 
 ## EXPERIENCE
 
+## Stay at home mom
+> June 2016 - Present
+>
+
+- Managing kids activity at Spring camp
+- Volunteer work at preschool for various event
+- Creating and managing household expense reports and budget
+- Achieving excellency in being resourceful
+- Achieved excellency at multi tasking
+
+
+
 ## Software Engineer
 
 > [GlobalLogic Inc](https://www.globallogic.com/)
