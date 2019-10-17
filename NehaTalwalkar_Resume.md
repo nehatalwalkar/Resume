@@ -54,6 +54,7 @@
 
 - Requirement analysis 
 - Creating designing documents
+- coding and testing
 
 
 ## Technical Lead
