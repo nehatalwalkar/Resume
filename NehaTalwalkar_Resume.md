@@ -20,6 +20,9 @@
 > June 2016 - Present
 >
 
+- Learning Angular - ongoing
+- Java 8 - Learning new features
+- Completed training in UX designing
 - Managing kids activity at Spring camp
 - Volunteer work at preschool for various event
 - Creating and managing household expense reports and budget
